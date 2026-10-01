@@ -43,6 +43,9 @@ export default function HomeScreen() {
           get started
         </ThemedText>
 
+        <ThemedText type="subtitle">Name: Talha Aamir</ThemedText>
+        <ThemedText>Roll number: 22i-2502 </ThemedText>
+
         <ThemedView type="backgroundElement" style={styles.stepContainer}>
           <HintRow
             title="Try editing"
